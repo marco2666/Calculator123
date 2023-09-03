@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.6b_DLCJo8HojxDT4fPx3VgHaDr?pid=ImgDet&rs=1);
+}
+.r1{
+    padding: 5px;
+}
+.buttom{
+    border: 2px solid black;
+    padding: 10px;
+
+}
+.equal{
+    border: 2px solid rgb(224, 83, 83);
+    border-radius: 20px;
+    height: 7vh;
+    width: 5vw;
+    font-size: large;
+    color: rgb(12, 2, 2);
+    background-image: url(https://pbs.twimg.com/profile_images/1609597504877907969/t3nHKvHd_400x400.jpg);
+    background-position: center;
+    object-fit: cover;
+    backdrop-filter: blur(10px);
+    text-decoration: solid;
+    
+}
+.div1{
+    color: rgb(196, 53, 100);
+}
+#foothead{
+    color: rgb(196, 53, 100);
+}
+.ccst{
+    color: rgb(196, 53, 100);
+}
